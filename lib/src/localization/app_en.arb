@@ -1,0 +1,6 @@
+{
+  "appTitle": "movile_dev",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
