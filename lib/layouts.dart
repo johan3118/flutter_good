@@ -11,9 +11,9 @@ class Layouts extends StatelessWidget {
           foregroundColor: Colors.black,
           backgroundColor: Colors.transparent,
           elevation: 0,
-          title: Align(
+          title: const Align(
             alignment: Alignment.center,
-            child: const Text("Layouts"),
+            child: Text("Layouts"),
           ),
           leading: IconButton(
             icon: const Icon(Icons.menu),
